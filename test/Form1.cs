@@ -9,7 +9,7 @@ namespace test
 
         private void label1_Click(object sender, EventArgs e)
         {
-            //xiaoheHLZ
+            //xiaoheHLZ hahah
         }
 
         private void Form1_Load(object sender, EventArgs e)
