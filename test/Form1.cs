@@ -9,12 +9,12 @@ namespace test
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            //xiaohe
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            label1.Text = "ÎÄ¼þ°æ±¾£º" + System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString() + "\n";
+            label1.Text = "ï¿½Ä¼ï¿½ï¿½æ±¾ï¿½ï¿½" + System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString() + "\n";
         }
 
         private void label2_Click(object sender, EventArgs e)
