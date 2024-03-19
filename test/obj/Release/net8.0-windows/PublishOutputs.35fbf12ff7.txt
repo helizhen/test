@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\test\test\bin\Release\net8.0-windows\app.publish\test.exe
+C:\Users\admin\Desktop\test\test\bin\Release\net8.0-windows\app.publish\test.dll
+C:\Users\admin\Desktop\test\test\bin\Release\net8.0-windows\app.publish\test.deps.json
+C:\Users\admin\Desktop\test\test\bin\Release\net8.0-windows\app.publish\test.runtimeconfig.json
+C:\Users\admin\Desktop\test\test\bin\Release\net8.0-windows\app.publish\test.pdb
